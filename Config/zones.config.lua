@@ -15,8 +15,8 @@ Config.zones = {
 
     {
         radius = 10.0,
-        limit = 10.0,
-        coords = vector3(-2224.989, 3197.5302, 32.801776),
+        limit = 15.0,
+        coords = vector3(-2081.688, 3056.4414, 32.810371),
         markerColor = {
             r = 255,
             g = 255,
@@ -27,8 +27,8 @@ Config.zones = {
 
     {
         radius = 10.0,
-        limit = 10.0,
-        coords = vector3(-2208.399, 3225.2524, 32.800807),
+        limit = 20.0,
+        coords = vector3(-2209.936, 3127.8476, 32.788673),
         markerColor = {
             r = 0,
             g = 0,
